@@ -1,3 +1,1 @@
-# app-matrices
-# app-matrices
-# app-matrices
+# Aplicativo para generación de matrices, hallar ruta y ciclos entre nodos. Desarrollado en Visual Studio 2013 con C++ y POO.
